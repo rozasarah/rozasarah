@@ -2,14 +2,14 @@
 
 Meu nome é Sarah Roza
 
-- Estou estudando na Alura.
+- Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
 ### Você pode entrar em contato comigo 📫
 
-paludettomarcelo@gmail.com
+s.roza@escola.pr.gov.br
 
-@marcelopaludetto
 
-![descrição do GIF](link GIF do Tenor)
+
+![](https://media1.tenor.com/m/dj9jxfUbDHAAAAAd/dog-smile-dog.gif)
